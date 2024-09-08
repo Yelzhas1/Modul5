@@ -38,7 +38,7 @@ class MainClass
         return color;
     }
 
-    public static void Main(string[] args)
+    public static void Main1(string[] args)
     {
         //var (name, age) = ("Евгения", 27);
 
